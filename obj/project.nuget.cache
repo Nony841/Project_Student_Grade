@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pvRZgyVl1g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\20114\\Desktop\\StudentGrades1\\StudentGrades\\StudentGrades\\StudentGrades.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20114\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512",
+    "C:\\Users\\20114\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\20114\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\20114\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
